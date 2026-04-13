@@ -48,7 +48,7 @@ Selling a well-maintained and trouble-free Toyota Auris 1.8 Hybrid.
 - Frost-resistant 230V heater cable (red)
 
 ### HV Battery Health
-🔋 [Battery test report (Hybrid Assistant)](https://shtoong.github.io/toyota-auris-sale/battery_report.html)
+🔋 [Battery test report (Hybrid Assistant)](https://shtoong.github.io/toyota-auris-sale/battery_report.html#hvhealth)
 - **Estimated Capacity:** 5.39 Ah (83% of nominal 6.5 Ah)
 - **Maximum voltage delta:** 0.24 V (excellent balance)
 - **Average delta:** 0.11 V
@@ -101,7 +101,7 @@ Myydaan hyvakuntoinen ja ongelmaton Toyota Auris 1.8 Hybrid (SKU-473).
 - Pakkasenkestava 230V lammityskaapeli (punainen)
 
 ### HV-akun kunto
-🔋 [Akkutestin raportti (Hybrid Assistant)](https://shtoong.github.io/toyota-auris-sale/battery_report.html)
+🔋 [Akkutestin raportti (Hybrid Assistant)](https://shtoong.github.io/toyota-auris-sale/battery_report.html#hvhealth)
 - **Arvioitu kapasiteetti:** 5,39 Ah (83 % nimellisesta 6,5 Ah)
 - **Suurin jannitedelta:** 0,24 V (erinomainen tasapaino)
 
@@ -152,7 +152,7 @@ Myydaan hyvakuntoinen ja ongelmaton Toyota Auris 1.8 Hybrid (SKU-473).
 - Морозостойкий кабель 230V для обогрева (красный)
 
 ### Состояние гибридной батареи
-🔋 [Отчет теста батареи (Hybrid Assistant)](https://shtoong.github.io/toyota-auris-sale/battery_report.html)
+🔋 [Отчет теста батареи (Hybrid Assistant)](https://shtoong.github.io/toyota-auris-sale/battery_report.html#hvhealth)
 - **Емкость:** 5,39 Ah (83% от номинала 6,5 Ah)
 - **Максимальная дельта напряжений:** 0,24 V (отличный баланс)
 - **Средняя дельта:** 0,11 V
