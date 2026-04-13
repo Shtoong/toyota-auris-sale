@@ -2,9 +2,11 @@
 
 (function () {
   // --- Language Switcher ---
-  const DEFAULT_LANG = 'en';
+  const SUPPORTED_LANGS = ['en', 'fi', 'ru'];
+  const DEFAULT_LANG = 'fi';
 
   function setLang(lang) {
+    if (!SUPPORTED_LANGS.includes(lang)) lang = DEFAULT_LANG;
     document.body.setAttribute('data-lang', lang);
     document.querySelectorAll('.lang-btn').forEach(btn => {
       btn.classList.toggle('active', btn.dataset.lang === lang);
@@ -14,15 +16,19 @@
   }
 
   function initLang() {
-    let lang = DEFAULT_LANG;
-    try { lang = localStorage.getItem('auris-lang') || DEFAULT_LANG; } catch (e) {}
-    // Auto-detect from browser if no saved preference
-    if (!localStorage.getItem('auris-lang')) {
-      const bl = navigator.language || '';
-      if (bl.startsWith('fi')) lang = 'fi';
-      else if (bl.startsWith('ru')) lang = 'ru';
+    let saved = null;
+    try { saved = localStorage.getItem('auris-lang'); } catch (e) {}
+    if (saved && SUPPORTED_LANGS.includes(saved)) {
+      setLang(saved);
+      return;
     }
-    setLang(lang);
+    // Auto-detect from browser
+    const bl = (navigator.language || '').slice(0, 2).toLowerCase();
+    if (SUPPORTED_LANGS.includes(bl)) {
+      setLang(bl);
+    } else {
+      setLang(DEFAULT_LANG);
+    }
   }
 
   document.addEventListener('click', function (e) {
@@ -88,13 +94,18 @@
   document.addEventListener('click', function (e) {
     const item = e.target.closest('.gallery-item');
     if (item) {
+      const lang = document.body.getAttribute('data-lang') || 'fi';
       const visibleItems = Array.from(document.querySelectorAll('.gallery-item'))
         .filter(el => el.style.display !== 'none')
-        .map(el => ({
-          src: el.querySelector('img').dataset.full || el.querySelector('img').src,
-          alt: el.querySelector('img').alt,
-          original: el.dataset.original
-        }));
+        .map(el => {
+          const labelEl = el.querySelector('.photo-label .lang-' + lang);
+          const label = labelEl ? labelEl.textContent : el.querySelector('img').alt;
+          return {
+            src: el.querySelector('img').dataset.full || el.querySelector('img').src,
+            alt: label,
+            original: el.dataset.original
+          };
+        });
       const idx = visibleItems.findIndex(v =>
         v.original === item.dataset.original
       );

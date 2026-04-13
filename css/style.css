@@ -61,19 +61,20 @@ body[data-lang="ru"] .lang-en, body[data-lang="ru"] .lang-fi { display: none !im
 }
 
 .lang-btn {
-  background: rgba(255,255,255,0.1);
-  border: 1px solid rgba(255,255,255,0.2);
+  background: rgba(255,255,255,0.12);
+  border: 2px solid rgba(255,255,255,0.35);
   color: #fff;
-  padding: 4px 10px;
-  border-radius: 4px;
+  padding: 6px 16px;
+  border-radius: 6px;
   cursor: pointer;
-  font-size: 0.8rem;
-  font-weight: 500;
+  font-size: 0.95rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
   transition: all 0.2s;
 }
 
-.lang-btn:hover { background: rgba(255,255,255,0.2); }
-.lang-btn.active { background: var(--primary-light); border-color: var(--primary-light); }
+.lang-btn:hover { background: rgba(255,255,255,0.25); border-color: rgba(255,255,255,0.5); }
+.lang-btn.active { background: #fff; color: var(--bg-dark); border-color: #fff; }
 
 /* Hero */
 .hero {
@@ -122,6 +123,16 @@ body[data-lang="ru"] .lang-en, body[data-lang="ru"] .lang-fi { display: none !im
   font-size: 1.5rem;
   font-weight: 700;
   box-shadow: var(--shadow-lg);
+  text-align: center;
+  line-height: 1.2;
+}
+
+.price-negotiable {
+  display: block;
+  font-size: 0.7rem;
+  font-weight: 500;
+  opacity: 0.9;
+  text-transform: lowercase;
 }
 
 /* Quick facts strip */

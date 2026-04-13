@@ -45,6 +45,7 @@ Selling a well-maintained and trouble-free Toyota Auris 1.8 Hybrid.
 ### Included
 - Summer tyres on rims (195/65R15, currently mounted)
 - Winter tyres on rims (Nokian Nordman 5, studded)
+- Frost-resistant 230V heater cable (red)
 
 ### HV Battery Health
 🔋 [Battery test report (Hybrid Assistant)](https://shtoong.github.io/toyota-auris-sale/battery_report.html)
@@ -97,6 +98,7 @@ Myydaan hyvakuntoinen ja ongelmaton Toyota Auris 1.8 Hybrid (SKU-473).
 ### Mukana
 - Kesarenkaat vanteilla (195/65R15, nyt alla)
 - Talvirenkaat vanteilla (Nokian Nordman 5, nastarenkaat)
+- Pakkasenkestava 230V lammityskaapeli (punainen)
 
 ### HV-akun kunto
 🔋 [Akkutestin raportti (Hybrid Assistant)](https://shtoong.github.io/toyota-auris-sale/battery_report.html)
@@ -147,6 +149,7 @@ Myydaan hyvakuntoinen ja ongelmaton Toyota Auris 1.8 Hybrid (SKU-473).
 ### В комплекте
 - Летняя резина на дисках (195/65R15, сейчас стоит)
 - Зимняя резина на дисках (Nokian Nordman 5, шипы)
+- Морозостойкий кабель 230V для обогрева (красный)
 
 ### Состояние гибридной батареи
 🔋 [Отчет теста батареи (Hybrid Assistant)](https://shtoong.github.io/toyota-auris-sale/battery_report.html)
