@@ -1,11 +1,11 @@
-# Toyota Auris 1.8 Hybrid — For Sale / Myydaan / Prodaetsya
+# Toyota Auris 1.8 Hybrid — For Sale / Myydaan
 
 **Registration: SKU-473 | VIN: SB1MS3JEX0E006290**
 
-**[View the website / Katso sivusto / Смотреть сайт](https://shtoong.github.io/toyota-auris-sale/)**
+**[View the website / Katso sivusto](https://shtoong.github.io/toyota-auris-sale/)**
 
-| [English](#-english) | [Suomeksi](#-suomeksi) | [По-русски](#-по-русски) |
-|---|---|---|
+| [English](#-english) | [Suomeksi](#-suomeksi) |
+|---|---|
 
 ---
 
@@ -113,70 +113,17 @@ Myydaan hyvakuntoinen ja ongelmaton Toyota Auris 1.8 Hybrid (SKU-473).
 
 ---
 
-## 🇷🇺 По-русски
-
-Продается надежная и экономичная Toyota Auris 1.8 Hybrid (SKU-473).
-
-📍 **Jyvaskyla, Lohikoski, Финляндия**
-💰 **7 500 EUR** (торг уместен)
-🗓 **Доступна: конец апреля – начало мая 2026**
-
-### Характеристики
-- **Год выпуска:** 2013 (регистрация 17.1.2013)
-- **Пробег:** 269 531 км
-- **Двигатель:** 1.8 Hybrid (бензин + электро), 100 кВт / 136 л.с.
-- **Коробка:** автомат (e-CVT), передний привод
-- **Расход:** 3,8 л/100 км
-- **CO₂:** 87 г/км
-- **Налог:** всего 110,96 EUR/год
-- **Экокласс:** Euro 5
-- **Цвет:** серебристый, 5 дверей
-- **Техосмотр до:** 6.11.2026
-- **Обслуживалась регулярно**
-
-### Оснащение
-- Подогрев двигателя и салона от розетки 230V
-- Мощная доп. фара PURELUX Panther S540 Gen3 (216W)
-- Круиз-контроль
-- Навигация
-- Управление на руле
-- Климат-контроль
-- Обогрев передних сидений
-- Bluetooth, USB
-- Резиновые коврики
-- ABS
-
-### В комплекте
-- Летняя резина на дисках (195/65R15, сейчас стоит)
-- Зимняя резина на дисках (Nokian Nordman 5, шипы)
-- Морозостойкий кабель 230V для обогрева (красный)
-
-### Состояние гибридной батареи
-🔋 [Отчет теста батареи (Hybrid Assistant)](https://shtoong.github.io/toyota-auris-sale/battery_report.html#hvhealth)
-- **Емкость:** 5,39 Ah (83% от номинала 6,5 Ah)
-- **Максимальная дельта напряжений:** 0,24 V (отличный баланс)
-- **Средняя дельта:** 0,11 V
-- Превышений порога 0,45V: нет
-
-### Контакты
-- **Светлана Гребнева**
-- Email: sv@grebnev.com
-- Телефон: +358 41 791 5155
-- [WhatsApp](https://wa.me/358417915155)
-
----
-
-## 📸 Photos / Kuvat / Фото
+## 📸 Photos / Kuvat
 
 Photos are organized by category in the [`photos-web/`](photos-web/) directory (optimized for web) and [`photos-original/`](photos-original/) directory (full resolution):
 
-| Category | EN | FI | RU | Count |
-|---|---|---|---|---|
-| `exterior` | Exterior | Ulkopuoli | Кузов | 9 |
-| `interior` | Interior | Sisatila | Салон | 11 |
-| `dashboard` | Dashboard | Mittaristo | Приборы | 3 |
-| `infotainment` | Infotainment | Viihde | Мультимедиа | 7 |
-| `controls` | Controls | Hallinta | Управление | 6 |
-| `wheels` | Wheels & Tyres | Renkaat | Колеса | 8 |
-| `service` | Service records | Huolto | Сервис | 3 |
-| **Total** | | | | **47** |
+| Category | EN | FI | Count |
+|---|---|---|---|
+| `exterior` | Exterior | Ulkopuoli | 9 |
+| `interior` | Interior | Sisatila | 11 |
+| `dashboard` | Dashboard | Mittaristo | 3 |
+| `infotainment` | Infotainment | Viihde | 7 |
+| `controls` | Controls | Hallinta | 6 |
+| `wheels` | Wheels & Tyres | Renkaat | 8 |
+| `service` | Service records | Huolto | 3 |
+| **Total** | | | **47** |

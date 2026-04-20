@@ -2,7 +2,7 @@
 
 (function () {
   // --- Language Switcher ---
-  const SUPPORTED_LANGS = ['en', 'fi', 'ru'];
+  const SUPPORTED_LANGS = ['en', 'fi'];
   const DEFAULT_LANG = 'fi';
 
   function setLang(lang) {
