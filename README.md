@@ -14,7 +14,7 @@
 Selling a well-maintained and trouble-free Toyota Auris 1.8 Hybrid.
 
 📍 **Jyvaskyla, Lohikoski, Finland**
-💰 **7 500 EUR** (negotiable)
+💰 **7 000 EUR** (negotiable)
 🗓 **Available: late April – early May 2026**
 
 ### Specifications
@@ -67,7 +67,7 @@ Selling a well-maintained and trouble-free Toyota Auris 1.8 Hybrid.
 Myydaan hyvakuntoinen ja ongelmaton Toyota Auris 1.8 Hybrid (SKU-473).
 
 📍 **Jyvaskyla, Lohikoski, Suomi**
-💰 **7 500 EUR** (neuvoteltavissa)
+💰 **7 000 EUR** (neuvoteltavissa)
 🗓 **Saatavilla: huhtikuun loppu – toukokuun alku 2026**
 
 ### Perustiedot
